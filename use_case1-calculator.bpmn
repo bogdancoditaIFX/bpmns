@@ -43,7 +43,7 @@
     </bpmn:textAnnotation>
     <bpmn:association id="Association_1byqowd" sourceRef="StartEvent_1" targetRef="TextAnnotation_09ngv0u" />
     <bpmn:textAnnotation id="TextAnnotation_0cii9o1">
-      <bpmn:text>comment for git</bpmn:text>
+      <bpmn:text>comment for git auto deploy</bpmn:text>
     </bpmn:textAnnotation>
     <bpmn:association id="Association_0bhw3rq" sourceRef="Activity_1skyzhh" targetRef="TextAnnotation_0cii9o1" />
   </bpmn:process>
